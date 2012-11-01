@@ -20,6 +20,8 @@ https://github.com/jbroadway/elefant-examples.git
 Then visit `/examples` in your Elefant installation or go to
 Tools > Examples in the Elefant admin area.
 
+> Note: Requires Elefant 1.3+
+
 ## Missing examples
 
 If you'd like to see new examples added here, post your
