@@ -1,0 +1,10 @@
+<p>{'Example scripts'}:</p>
+
+<ol>
+{% foreach handlers as handler %}
+	<li>
+		<a href="/examples/{{handler}}">{{handler}}</a>
+		(<a href="/examples/viewsource/{{handler}}">{'source'}</a>)
+	</li>
+{% end %}
+</ol>
