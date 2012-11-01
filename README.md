@@ -19,3 +19,11 @@ https://github.com/jbroadway/elefant-examples.git
 
 Then visit `/examples` in your Elefant installation or go to
 Tools > Examples in the Elefant admin area.
+
+## Missing examples
+
+If you'd like to see new examples added here, post your
+ideas to the [Elefant support form](http://www.elefantcms.com/forum/).
+
+If you'd like to help create new examples, feel free to fork
+the project and add them yourself. We love pull requests :)
