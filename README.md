@@ -17,4 +17,5 @@ area and paste in the following:
 https://github.com/jbroadway/elefant-examples.git
 ```
 
-Then visit `/examples` in your Elefant installation.
+Then visit `/examples` in your Elefant installation or go to
+Tools > Examples in the Elefant admin area.
