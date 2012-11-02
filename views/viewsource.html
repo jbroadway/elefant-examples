@@ -1,0 +1,30 @@
+<p>
+	<a href="/examples">&laquo; {'Back'}</a>
+	|
+	<a href="/examples/{{handler}}">{'View Example'}</a>
+</p>
+
+<h4>apps/examples/handlers/{{handler}}.php</h4>
+
+{{handler_output|none}}
+
+{% if has_view %}
+	<h4>apps/examples/views/{{handler}}.html</h4>
+
+	{{view_output|none}}
+{% end %}
+
+{% if has_form %}
+	<h4>apps/examples/forms/{{handler}}.php</h4>
+
+	{{form_output|none}}
+{% end %}
+
+<style>
+code {
+	display: block;
+	border: 1px solid #ddd;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+</style>
