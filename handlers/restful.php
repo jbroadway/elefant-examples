@@ -8,7 +8,7 @@
  * Try the following URLs to test it out:
  *
  *     /examples/restful/hello/world
- *     /examples/restful/double/3
+ *     /examples/restful/square/3
  *     /examples/restful/error
  */
 
